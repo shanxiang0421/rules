@@ -1,8 +1,5 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-#馒头
-DOMAIN-SUFFIX,m-team.cc
-DOMAIN-SUFFIX,m-team.co
-DOMAIN-SUFFIX,m-team.io
+
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
@@ -11,7 +8,7 @@ DOMAIN-SUFFIX,hao123.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
-
+DOMAIN-KEYWORD,m-team
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 
