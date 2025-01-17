@@ -4,7 +4,9 @@
 #雨PT站点
 DOMAIN-SUFFIX,raingfh.top
 ##馒头
-DOMAIN-KEYWORD,m-team
+DOMAIN-SUFFIX,m-team.co
+DOMAIN-SUFFIX,m-team.io
+DOMAIN-SUFFIX,m-team.cc
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
