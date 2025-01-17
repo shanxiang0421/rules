@@ -3,6 +3,8 @@
 # 域名后缀匹配
 #雨PT站点
 DOMAIN-SUFFIX,raingfh.top
+##馒头
+DOMAIN-KEYWORD,m-team
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
