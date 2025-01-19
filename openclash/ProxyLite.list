@@ -1,14 +1,7 @@
 # 代理补充列表
 
 # 域名后缀匹配
-#雨PT站点
-DOMAIN-SUFFIX,raingfh.top
-##馒头
-DOMAIN-SUFFIX,m-team.co
-DOMAIN-SUFFIX,m-team.io
-DOMAIN-SUFFIX,m-team.cc
-#ptzone站点
-DOMAIN-SUFFIX,ptzone.xyz
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
