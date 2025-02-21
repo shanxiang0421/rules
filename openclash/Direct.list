@@ -1,5 +1,15 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
+#出口IP监测站点
+DOMAIN-SUFFIX,orz.tools
+DOMAIN-SUFFIX,m27.tech
+DOMAIN-SUFFIX,skk.moe
+DOMAIN-SUFFIX,ip138.net
+DOMAIN-SUFFIX,ddns.oray.com
+DOMAIN-SUFFIX,4.ipw.cn
+DOMAIN-SUFFIX,ip.3322.net
+DOMAIN-SUFFIX,myip.ipip.net
+
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
